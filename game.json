@@ -1,0 +1,8 @@
+{
+  "game": {
+    "url_launcher": "http://213.139.211.36/launcher.apk",
+    "url_cache": "http://213.139.211.36/cache.zip",
+    "space_available": "4096",
+    "version_launcher": "1"
+  }
+}
