@@ -1,8 +1,8 @@
 [
-	{
-		"ip": "141.94.184.106",
-		"port": 1199,
-		"id": 1,
-		"name":"AQUA Mobile"
-	}
-]
+    {
+      "x2": "false",
+      "name": "Name",
+      "online": 2,
+      "maxonline": 1000
+    }
+ ]
