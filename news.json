@@ -1,12 +1,10 @@
 [
-  {
-    "title": "STRONG RP",
-    "imageUrl": "https://i.ytimg.com/vi/dQw4w9WgXcQ/maxresdefault.jpg",
-    "date": "30 Июля"
-  },
-  {
-    "title": "Обновление",
-    "imageUrl": "https://i.ytimg.com/vi/dQw4w9WgXcQ/maxresdefault.jpg",
-    "date": "29 Июля"
-  }
+   {
+        "image" : "https://i.ytimg.com/vi/W5D4ZS5bEAA/maxresdefault.jpg",
+        "title" : "Новый лаунчер BRILLIANT RP"
+   },
+   {
+        "image" : "https://i.ytimg.com/vi/0L4g6BLtcOM/maxresdefault.jpg",
+        "title" : "Подпишись на Telegram автора"
+   }
 ]
