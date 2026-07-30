@@ -1,1 +1,5 @@
-123
+{
+  "url": "https://example.com/game_cache.zip",
+  "version": "1.0.0",
+  "sizeMb": 500
+}
