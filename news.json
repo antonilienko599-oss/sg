@@ -1,17 +1,12 @@
 [
-	{
-		"title": "Тестовая новость",
-		"image": "https://api.ru-state.online/mobile/news/png/banner_obt_ru_steyt.png",
-		"link": "https://vk.com/cr_rustate"
-	},
-	{
-		"title": "проверка",
-		"image": "https://api.ru-state.online/mobile/news/png/banner_obt_ru_steyt.png",
-		"link": ""
-	},
-	{
-		"title": "проверка 1",
-		"image": "https://api.ru-state.online/mobile/news/png/banner_obt_ru_steyt.png",
-		"link": ""
-	}
+  {
+    "title": "Добро пожаловать в STRONG RP!",
+    "imageUrl": "https://i.ytimg.com/vi/dQw4w9WgXcQ/maxresdefault.jpg",
+    "date": "30 Июля"
+  },
+  {
+    "title": "Обновление системы транспорта",
+    "imageUrl": "https://i.ytimg.com/vi/dQw4w9WgXcQ/maxresdefault.jpg",
+    "date": "29 Июля"
+  }
 ]
