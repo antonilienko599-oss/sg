@@ -1,5 +1,6 @@
 {
-  "url": "https://www.dropbox.com/scl/fi/hw30rysv2nuhm06ulcf5x/cache.zip?rlkey=mutxl4lgodlqi7g8hpos08u6g&st=e8ewq4dj&dl=1",
-  "version": "1.0.0",
-  "sizeMb": 500
+  "url": "https://www.dropbox.com/scl/fi/hw30rysv2nuhm06ulcf5x/cache.zip?rlkey=mutxl4lgodlqi7g8hpos08u6g&st=yyrv6stu&dl=1",
+  "version": "1.0.1",
+  "sizeMb": 500,
+  "comment": "Внутри архива должны быть папки libs и assets"
 }
